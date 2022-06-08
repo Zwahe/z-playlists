@@ -30,7 +30,7 @@ A static clicking playlist that features both an emphasis on precision and speed
 ### [Z-Switch](https://github.com/Zwahe/z-playlists/blob/main/Z-Switch.json)
 #### Share Code: KovaaKsTaggingSilverCt
 A target switching playlist that has scenarios that focus on both speed and evasion. It is recommended to play each scenario in this playlist 5x.  
-A special thanks to [Robb](https://twitter.com/robbfps)(playlist creation) and Vigil(playlist testing).
+A special thanks to [Robb](https://twitter.com/robbfps)(scenario selection) and [Vigil](https://twitter.com/Vigil_FPS)(playlist testing).
 
 # Game Specific Playlists
 
