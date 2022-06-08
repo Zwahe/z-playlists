@@ -1,4 +1,4 @@
-# z-playlists
+# Aiminati
 Kovaaks Playlists
 ## Tracking Playlists
 Z-ArcTrack
