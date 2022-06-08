@@ -1,0 +1,56 @@
+{
+	"playlistName": "Z-Switch",
+	"playlistId": 87451,
+	"authorSteamId": "76561198119750206",
+	"authorName": "Zwahe",
+	"scenarioList": [
+		{
+			"scenario_Name": "canTS",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "raspTS",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "beanTS",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "CowserTS",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "patTS pAim",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "ToonsTS rAim",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "KinTS NR Smooth",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "psalmflick ts small",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Glider GOATED Switch",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Bounce 180 Tracking Small",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "voxTS Smooth 30% Smaller",
+			"play_Count": 1
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "KovaaKsTaggingSilverCt"
+}
