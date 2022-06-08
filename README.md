@@ -1,5 +1,5 @@
 # Aiminati
-A comprehensive list of Aiminati routines.
+A comprehensive list of all Aiminati routines.
 
 Welcome to [Aiminati](https://twitter.com/aiminati)! Our goal is to make you a better aimer in your respective game/field of aiming (tracking, switching, clicking). Here you will find a wide variety of routines to help develop these skills.
 
