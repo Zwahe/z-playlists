@@ -36,6 +36,6 @@ A special thanks to [Robb](https://twitter.com/robbfps)(playlist creation) and V
 
 ### [ZR-Valorant](https://github.com/Zwahe/z-playlists/blob/main/ZR-Valorant.json)
 #### Share Code: KovaaKsDodgingPeachChoke
-A valorant playlist that has equal focus on all components needed to excel. It is recommended to play each scenario in this playlist 3x.  
+A playlist that has focus on all components needed to excel in Valorant. It is recommended to play each scenario in this playlist 3x.  
 This playlist was made in collaboration with [Robb](https://twitter.com/robbfps) and [Zwahe](https://twitter.com/zwahefps).
 
