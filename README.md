@@ -22,3 +22,8 @@ A dynamic clicking playlist that features elements of; verticality, arc-based cl
 ### [Z-Static](https://github.com/Zwahe/z-playlists/blob/main/Z-Static.json)
 #### Share Code: KovaaKsResettingThinAdventure
 A static clicking playlist that features both an emphasis on precision and speed. It is recommended to play each scenario in this playlist 5x.
+
+# Target Switching Playlists
+
+### [Z-Switch]()
+#### Share Code:
