@@ -31,3 +31,8 @@ A static clicking playlist that features both an emphasis on precision and speed
 #### Share Code: KovaaKsTaggingSilverCt
 A target switching playlist that has scenarios that focus on both speed and evasion. It is recommended to play each scenario in this playlist 5x.  
 A special thanks to Robb(playlist creation) and Vigil(playlist testing).
+
+# Game Specific Playlists
+
+### [ZR-Valorant]()
+
