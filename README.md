@@ -37,5 +37,6 @@ A special thanks to [Robb](https://twitter.com/robbfps)(scenario selection) and 
 ### [ZR-Valorant](https://github.com/Zwahe/z-playlists/blob/main/ZR-Valorant.json)
 #### Share Code: KovaaKsDodgingPeachChoke
 A playlist that has focus on all components needed to excel in Valorant. It is recommended to play each scenario in this playlist 3x.  
+Robb's Tips: https://jasper-meadow-c4d.notion.site/Valorant-Routines-48158e5a04e94a559c2fae7ab4819f83  
 This playlist was a collaboration between [Robb](https://twitter.com/robbfps) and [Zwahe](https://twitter.com/zwahefps).
 
