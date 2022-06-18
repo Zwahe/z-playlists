@@ -1,0 +1,52 @@
+{
+	"playlistName": "ZR-ValStrafe",
+	"playlistId": 89950,
+	"authorSteamId": "76561198119750206",
+	"authorName": "Zwahe",
+	"scenarioList": [
+		{
+			"scenario_Name": "Midrange FS Dodge",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Anti-Mirror Long Strafes",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "VT AngleStrafe Intermediate",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "patTargetClick Dodge",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Pasu Dodge Horizontal",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Pistol Strafe Gallery Sparky",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "WPV valFS 180 Click",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "WPV FSHS",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Fast Strafes Val HS",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "GODLIKE HS Sheriff TRACK",
+			"play_Count": 1
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "KovaaKsRaidingLavenderFinisher"
+}
