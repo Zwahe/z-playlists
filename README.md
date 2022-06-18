@@ -42,6 +42,6 @@ This playlist was a collaboration between [Robb](https://twitter.com/robbfps) an
 
 ### [ZR-ValStrafe](https://github.com/Zwahe/z-playlists/blob/main/ZR-ValStrafe.json)
 #### Share Code: KovaaKsRaidingLavenderFinisher
-This routine was made with the idea of promoting hand independence in mind, as well as working on your ability to accurately strafe and click targets.  
+This routine was made with the idea of promoting hand independence in mind, as well as working on your ability to accurately strafe and click targets. It is recommend to play each scenario in this playlist 3x.  
 Robb's Tips: https://jasper-meadow-c4d.notion.site/Valorant-Routines-48158e5a04e94a559c2fae7ab4819f83  
 This playlist was a collaboration between [Robb](https://twitter.com/robbfps) and [Zwahe](https://twitter.com/zwahefps).
