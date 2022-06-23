@@ -1,0 +1,56 @@
+{
+	"playlistName": "A-Fortnite",
+	"playlistId": 91062,
+	"authorSteamId": "76561198119750206",
+	"authorName": "Zwahe",
+	"scenarioList": [
+		{
+			"scenario_Name": "Tall Wall 6 (Distance)",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "psalmflick TPS Small",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "patTargetSG TPS Crouch",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Bounce Shotgun",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Leapcorn Pure",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "gp 1 invincible",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Narrow Strafe 3",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "KindaClose Fast Strafes Robot",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Smoothbot Vertical P+",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Fortnite Glider 360 Invincible",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Bounce 180 Tracking Small High Ground",
+			"play_Count": 1
+		}
+	],
+	"description": "The Official Fortnite playlist of @aiminati.",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "KovaaKsScreamingScaredLoadout"
+}
