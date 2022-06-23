@@ -34,6 +34,11 @@ A special thanks to [Robb](https://twitter.com/robbfps)(scenario selection) and 
 
 # Game Specific Playlists
 
+### [A-Fortnite](https://github.com/Zwahe/z-playlists/blob/main/A-Fortnite.json)
+#### Share Code: KovaaKsScreamingScaredLoadout
+The playlist has; shotgun, third person, glider, highground, lowground, static, dynamic, tracking and target switching scenarios. Also made with the current season in mind. It is recommended to play each scenario in this playlist 3x-5x.  
+A special thanks to [Tom](https://twitter.com/riddle_iwnl).
+
 ### [ZR-Valorant](https://github.com/Zwahe/z-playlists/blob/main/ZR-Valorant.json)
 #### Share Code: KovaaKsDodgingPeachChoke
 A playlist that has focus on all components needed to excel in Valorant. It is recommended to play each scenario in this playlist 3x.  
