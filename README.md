@@ -36,7 +36,8 @@ A special thanks to [Robb](https://twitter.com/robbfps)(scenario selection) and 
 
 ### [A-Fortnite](https://github.com/Zwahe/z-playlists/blob/main/A-Fortnite.json)
 #### Share Code: KovaaKsScreamingScaredLoadout
-The playlist has; shotgun, third person, glider, highground, lowground, static, dynamic, tracking and target switching scenarios. Also made with the current season in mind. It is recommended to play each scenario in this playlist 3x-5x.  
+The playlist has; shotgun, third person, glider, highground, lowground, static, dynamic, tracking, and target switching scenarios. Also made with the current season in mind. It is recommended to play each scenario in this playlist 3x-5x.  
+Zwahe's Guide: https://docs.google.com/document/d/1hYUDSER6-hdxHI6jjVZb-_P0eRgKnJcLXH4mzrJejS8/edit?usp=sharing  
 A special thanks to [Tom](https://twitter.com/riddle_iwnl) for playtesting the routine.
 
 ### [ZR-Valorant](https://github.com/Zwahe/z-playlists/blob/main/ZR-Valorant.json)
